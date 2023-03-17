@@ -3,7 +3,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-}
+} 
 
 body {
     background-color: rgb(180, 164, 196);
@@ -34,10 +34,10 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(58, 26, 255);
+    color: rgb(58, 25, 255);
 }
 
 a:hover {
     text-decoration: underline;
-    color: rgb(26, 26, 255);
+    color: rgb(26, 25, 255);
 }
